@@ -1,0 +1,25 @@
+languageCode = "it-it"
+languageName = "Italiano"
+languageDirection = "ltr"
+weight = 2
+
+title = "Cartografica"
+copyright = "&copy; 2025 Cartografica"
+
+[params]
+  dateFormat = "2 January 2006"
+
+  mainSections = ["samples"]
+  description = "Test tema Cartografica io"
+
+[params.author]
+  name = "Tommaso R."
+  image = "img/author.jpg"
+  headline = "Proprio io"
+  bio = "Biografia"
+  links = [
+    { x-twitter = "https://twitter.com/" },
+    { facebook = "https://facebook.com/" },
+    { linkedin = "https://linkedin.com/" },
+    { youtube = "https://youtube.com/" },
+  ]

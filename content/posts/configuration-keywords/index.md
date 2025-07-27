@@ -1,8 +1,7 @@
 ---
 title: "Configuration Keywords?"
-subtitle: "Dove le parole chiave non c'entrano"
 date: 2025-07-27
-draft: false
+draft: true
 ---
 
 Cosa sono e cosa intendiamo quando parliamo di Configuration Keywords?
